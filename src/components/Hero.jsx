@@ -15,9 +15,13 @@ function Hero() {
         </button>
       </nav>
       <h1 className="head_text">
-        Summarise Content with{" "}
+        Summarise Content with <br className="max-md:hidden" />
         <span className="orange_gradient">OpenAI GPT-4</span>
       </h1>
+      <h2 className="desc">
+        Smartly summarize any piece of text into concise, easy to digest content
+        so you can free yourself from information overload.
+      </h2>
     </header>
   );
 }
