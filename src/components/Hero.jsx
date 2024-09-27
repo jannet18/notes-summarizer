@@ -6,16 +6,16 @@ function Hero() {
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex items-center justify-between w-full mb-10 pt-3">
         <img src={logo} alt="summary_logo" className="w-8 object-contain" />
-        <button
+        {/* <button
           type="button"
           className="black_btn"
           onClick={() => window.open("")}
         >
           Portfolio
-        </button>
+        </button> */}
       </nav>
       <h1 className="head_text">
-        Summarise Content with <br className="max-md:hidden" />
+        Get Content Summarise with <br className="max-md:hidden" />
         <span className="orange_gradient">OpenAI GPT-4</span>
       </h1>
       <h2 className="desc">
