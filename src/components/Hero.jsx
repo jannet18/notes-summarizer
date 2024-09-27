@@ -15,7 +15,7 @@ function Hero() {
         </button> */}
       </nav>
       <h1 className="head_text">
-        Get Content Summarise with <br className="max-md:hidden" />
+        Get Content Summary with <br className="max-md:hidden" />
         <span className="orange_gradient">OpenAI GPT-4</span>
       </h1>
       <h2 className="desc">
