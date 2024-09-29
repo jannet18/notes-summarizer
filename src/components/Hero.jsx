@@ -5,7 +5,7 @@ function Hero() {
   return (
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex items-center justify-between w-full mb-10 pt-3">
-        <img src={logo} alt="summary_logo" className="w-8 object-contain" />
+        {/* <img src={logo} alt="summary_logo" className="w-8 object-contain" /> */}
         {/* <button
           type="button"
           className="black_btn"
