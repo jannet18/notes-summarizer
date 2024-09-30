@@ -7,7 +7,7 @@
 
 # Features
 
-- URL Input : Userrs can input an article URL to receive a summarized version of the content.
+- URL Input : Users can input an article URL to receive a summarized version of the content.
 - Automatic Summarization: Leverages an API to automatically summarize articles based on the length of the content.
 
 # Tech Stack
